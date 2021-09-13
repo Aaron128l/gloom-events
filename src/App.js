@@ -88,6 +88,14 @@ class App extends Component {
     this.setState({ viewingCard: type })
   }
 
+  returnToHome() {
+    this.setState(
+      {
+        viewingCard: null
+      }
+    )
+  }
+
   // modifies only the current drawn card
   removeCard() {
     const type = this.state.viewingCard
@@ -211,6 +219,9 @@ class App extends Component {
           <div className="button" onClick={() => this.removeCard()}>
             <img className="button-icon" alt="" src={'rip.svg'} />
             &nbsp; Safely Remove Card from Game (without Ripping)
+          </div>
+          <div className="button" onClick={() => this.returnToHome()}>
+            &nbsp; Back
           </div>
         </div>
       )
