@@ -16,12 +16,12 @@ self.__precacheManifest = [
     "url": "/gloom-events/static/js/2.0f46854c.chunk.js"
   },
   {
-    "revision": "4a8ae4b05b7eb2fcbc41ca694e9db561",
-    "url": "/gloom-events/static/media/city.4a8ae4b0.jpg"
-  },
-  {
     "revision": "153bc14252c20b6b2e7f4eab1852b00f",
     "url": "/gloom-events/static/media/road.153bc142.jpg"
+  },
+  {
+    "revision": "4a8ae4b05b7eb2fcbc41ca694e9db561",
+    "url": "/gloom-events/static/media/city.4a8ae4b0.jpg"
   },
   {
     "revision": "a681bbcf9f7301d2c51ae2b931cef4b9",
