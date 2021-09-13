@@ -210,7 +210,7 @@ class App extends Component {
           </div>
           <div className="button" onClick={() => this.removeCard()}>
             <img className="button-icon" alt="" src={'rip.svg'} />
-            &nbsp; Rip up card
+            &nbsp; Safely Remove Card from Game (without Ripping)
           </div>
         </div>
       )
