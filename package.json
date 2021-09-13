@@ -7,7 +7,7 @@
     "react-dom": "^16.6.3",
     "react-scripts": "2.1.5"
   },
-  "homepage" : "http://aaron128l.github.io/gloom-events",
+  "homepage": "http://aaron128l.github.io/gloom-events",
   "devDependencies": {
     "prettier": "^1.15.2",
     "stylelint": "^9.8.0",
@@ -17,7 +17,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app",
