@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "c6356368241b2702d8e9",
+    "revision": "3482a0b9bdc16658849c",
     "url": "/gloom-events/static/css/main.554ff03e.chunk.css"
   },
   {
-    "revision": "c6356368241b2702d8e9",
-    "url": "/gloom-events/static/js/main.c6356368.chunk.js"
+    "revision": "3482a0b9bdc16658849c",
+    "url": "/gloom-events/static/js/main.3482a0b9.chunk.js"
   },
   {
     "revision": "26a21a6f7e36f6ce8ddc",
@@ -24,7 +24,7 @@ self.__precacheManifest = [
     "url": "/gloom-events/static/media/city.4a8ae4b0.jpg"
   },
   {
-    "revision": "a681bbcf9f7301d2c51ae2b931cef4b9",
+    "revision": "d51b6d4256640a5112ce208fcbff2a0a",
     "url": "/gloom-events/index.html"
   }
 ];
